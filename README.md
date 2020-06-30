@@ -11,5 +11,15 @@ creators are :
   teaching assistant : Mr.Malek poor
   
 this project include a class and functions in that class
+# packages requirement
+
+stagger : for read tags
+pygame : for play musics
+PyQt5 : for make the GUI
+
+# installing package
+pip instaal pygame
+pip instal PyQt5
+pip install stagger
 
 
